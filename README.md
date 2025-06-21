@@ -18,4 +18,5 @@ Objective:
 Use the useState hook to manage the component states and handle events accordingly.
 
 ## Output
-![image](https://github.com/user-attachments/assets/c18e04ae-a360-4b2b-a941-5bbcb75ef6c8)
+![image](https://github.com/user-attachments/assets/e07a9e7b-7a84-4edb-94cb-2516e4fafd7a)
+
