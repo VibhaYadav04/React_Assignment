@@ -1,12 +1,21 @@
-# React + Vite
+# React Assignment
+## Assignment 1: Nested Functional Components with Props
+Create a User Profile Card system using functional components. Your app should include the following:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+App (Parent component)
+UserCard (Receives user data via props from App)
+UserDetails (Nested inside UserCard, displays user details)
+Objective:
+Pass data from App to UserCard using props, and then pass the necessary data from UserCard to UserDetails using props again.
 
-Currently, two official plugins are available:
+## Assignment 2: Components with State and Event Handling
+Create the following interactive components in a React app:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A Counter with Increment and Decrement buttons
+An Input field that displays the typed text live below it
+A Visibility toggle for showing/hiding a paragraph
+Objective:
+Use the useState hook to manage the component states and handle events accordingly.
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Output
+![image](https://github.com/user-attachments/assets/c18e04ae-a360-4b2b-a941-5bbcb75ef6c8)
